@@ -4,16 +4,21 @@
 
 # angular tree component
 
-## Getting started - A simple yet powerful tree component for Angular16.  WARNING: This is an unsupported fork for use in a dependent project to upgrade it to Angular 16.  Unit tests pass and the example-app works as expected.
+## FORK
+
+GTI mainteined version, forked from https://github.com/odymaui/angular-tree-component
+
+## Getting started - A simple yet powerful tree component for Angular16.  
+
 
 Install `angular-tree-component`:
 
-```npm install @odymaui/angular-tree-component```
+```npm install @gjax/angular-tree-component```
 
 Import `TreeModule`:
 
 ```
-import { TreeModule } from '@odymaui/angular-tree-component';
+import { TreeModule } from '@gjax/angular-tree-component';
 
 @NgModule({
   declarations: [AppComponent],
@@ -26,7 +31,7 @@ export class AppModule {}
 Add css to `styles.scss` or include in `angular.json`:
 
 ```
-@import '~@odymaui/angular-tree-component/css/angular-tree-component.css';
+@import '~@gjax/angular-tree-component/css/angular-tree-component.css';
 ```
 
 ## Docs, Demos & More
