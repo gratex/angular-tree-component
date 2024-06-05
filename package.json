@@ -1,6 +1,6 @@
 {
   "name": "@gjax/angular-tree-component",
-  "version": "16.0.4",
+  "version": "16.0.5",
   "description": "A simple yet powerful tree component for Angular16.  GTI mainteined version, forked from https://github.com/odymaui/angular-tree-component",
   "author": "Circlon Group <os-group@circlon.de>",
   "homepage": "https://github.com/odymaui/angular-tree-component",
